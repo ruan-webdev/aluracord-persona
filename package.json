@@ -14,5 +14,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  }
+  },
+  "repository": "https://github.com/ruan-webdev/aluracord-persona.git",
+  "author": "Ruan Campos <ruancamposdemarcos@gmail.com>"
 }
